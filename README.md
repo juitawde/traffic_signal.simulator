@@ -1,10 +1,10 @@
-# Smart Traffic Signal Simulation (C++)
+# 🚦 Smart Traffic Signal Simulation (C++)
 
 A console-based **Smart Traffic Signal Simulation** developed in **C++** that demonstrates how real-world traffic lights operate using **time-based logic and sequential execution**. The program simulates the three traffic signal states — **Green, Yellow, and Red** — with countdown timers and an interactive menu for user control.
 
 ---
 
-## Overview
+## 🌟 Overview
 
 Traffic signals regulate vehicle movement at road intersections. This project simulates the behavior of a traffic signal system using predefined time intervals and sequential signal changes.
 
@@ -14,7 +14,7 @@ The simulation runs in a loop until the user chooses to stop or exit the program
 
 ---
 
-## Features
+## 🚀 Features
 
 - Simulation of **three traffic signal states**
 - **Real-time countdown timer** for each signal
@@ -25,7 +25,7 @@ The simulation runs in a loop until the user chooses to stop or exit the program
 
 ---
 
-## Signal Timing
+## ⏰ Signal Timing
 
 | Signal | Duration | Indicator |
 |------|------|------|
@@ -35,13 +35,13 @@ The simulation runs in a loop until the user chooses to stop or exit the program
 
 ---
 
-## Program Workflow
+## ⚙️ Program Workflow
 
 <img width="354" height="424" alt="Screenshot 2026-03-11 at 4 26 48 PM" src="https://github.com/user-attachments/assets/a3b3debf-c0da-4149-a165-ae39597d2245" />
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **C++**
 - Standard Libraries:
@@ -51,7 +51,7 @@ The simulation runs in a loop until the user chooses to stop or exit the program
 
 ---
 
-## Screenshots of the program:
+## 💻 Screenshots of the program:
 
 <img width="1169" height="540" alt="Screenshot 2026-03-07 at 3 44 40 AM" src="https://github.com/user-attachments/assets/c38e158a-5bdf-44fe-b6e6-c3404e478535" />
 <img width="1177" height="544" alt="Screenshot 2026-03-07 at 3 45 13 AM" src="https://github.com/user-attachments/assets/eba12f36-bdf6-4449-aaac-98fca91e72c5" />
@@ -59,7 +59,7 @@ The simulation runs in a loop until the user chooses to stop or exit the program
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
 This project demonstrates:
 
@@ -70,7 +70,7 @@ This project demonstrates:
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 Possible enhancements include:
 
@@ -81,7 +81,7 @@ Possible enhancements include:
 
 ---
 
-## Author
+## 👩🏻‍💻 Author
 
 **Jui Sudhir Tawde**  
 School of Future Tech
